@@ -1,2 +1,2 @@
 # MERN-Stack-Notes
-In these repo I have uploaded an all my notes which helps other while learning these Technology
+This repository contains my **personal notes and learning resources on the MERN Stack** — prepared while studying and practicing full-stack web development using **MongoDB, Express, React, and Node.js**.
