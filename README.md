@@ -15,4 +15,3 @@ This repository contains my **personal notes and learning resources on the MERN 
 - **React.js** — Components, Hooks, State Management, Routing
 - **Node.js** — Backend logic, File system, API handling
 
----
