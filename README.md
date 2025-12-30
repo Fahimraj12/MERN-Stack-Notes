@@ -16,9 +16,6 @@ This repository contains my **personal notes and learning resources on the MERN 
 - **Node.js** — Backend logic, File system, API handling
 
 ### 🎯 Who This Is For
-
-Beginners learning MERN Stack
-
-Students preparing for interviews or internships
-
-Anyone who wants a structured revision of MERN concepts
+- Beginners learning MERN Stack
+- Students preparing for interviews or internships
+- Anyone who wants a structured revision of MERN concepts
