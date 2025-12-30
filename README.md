@@ -8,7 +8,7 @@ This repository contains my **personal notes and learning resources on the MERN 
   - To revise concepts quickly before interviews or exams
   - To help other beginners who are learning MERN
  
-### 🧩 Tech Stack Covered
+### Tech Stack Covered
 
 - **MongoDB** — NoSQL Database, CRUD operations, Aggregation, Indexing
 - **Express.js** — REST APIs, Middleware, Routing
