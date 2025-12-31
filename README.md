@@ -21,8 +21,8 @@ This repository contains my **personal notes and learning resources on the MERN 
 - Anyone who wants a structured revision of MERN concepts
 
 ### 🙌 Contributions
-This is mainly a personal learning repo, but:
+- This is mainly a personal learning repo, but:
+  - Feel free to fork it
+  - Suggest improvements via issues or pull requests
 
-Feel free to fork it
-
-Suggest improvements via issues or pull requests
+### 
