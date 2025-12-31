@@ -26,4 +26,4 @@ This repository contains my **personal notes and learning resources on the MERN 
   - Suggest improvements via issues or pull requests
 
 ### 📌 Disclaimer
-- These notes are based on my learning and practice. They may not be perfect or complete — always cross-check with official documentation.
+> These notes are based on my learning and practice. They may not be perfect or complete — always cross-check with official documentation.
