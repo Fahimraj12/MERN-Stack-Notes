@@ -19,3 +19,11 @@ This repository contains my **personal notes and learning resources on the MERN 
 - Beginners learning MERN Stack
 - Students preparing for interviews or internships
 - Anyone who wants a structured revision of MERN concepts
+
+🙌 Contributions
+
+This is mainly a personal learning repo, but:
+
+Feel free to fork it
+
+Suggest improvements via issues or pull requests
