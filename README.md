@@ -28,6 +28,6 @@ This repository contains my **personal notes and learning resources on the MERN 
 ### 📌 Disclaimer
 > These notes are based on my learning and practice. They may not be perfect or complete — always cross-check with official documentation.
 
-If you find this helpful
+### If you find this helpful
 
 Give this repo a ⭐ to support and bookmark it for later 😊
