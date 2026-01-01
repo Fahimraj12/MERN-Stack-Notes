@@ -15,6 +15,17 @@ This repository contains my **personal notes and learning resources on the MERN 
 - **React.js** — Components, Hooks, State Management, Routing
 - **Node.js** — Backend logic, File system, API handling
 
+## 📝 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/mern-stack-notes.git
+Navigate into it:
+
+bash
+Copy code
+cd mern-stack-notes
+Open any .md file to read notes.
 ### 🎯 Who This Is For
 - Beginners learning MERN Stack
 - Students preparing for interviews or internships
