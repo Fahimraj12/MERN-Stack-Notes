@@ -21,11 +21,10 @@ This repository contains my **personal notes and learning resources on the MERN 
    ```bash
    git clone https://github.com/your-username/mern-stack-notes.git
 Navigate into it:
-
-bash
-Copy code
-cd mern-stack-notes
-Open any .md file to read notes.
+  ```
+  cd mern-stack-notes
+  ```
+- Open any .md file to read notes.
 ### 🎯 Who This Is For
 - Beginners learning MERN Stack
 - Students preparing for interviews or internships
