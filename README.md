@@ -40,3 +40,10 @@ Navigate into it:
 
 ### If you find this helpful
 - Give this repo a ⭐ to support and bookmark it for later 😊
+
+## Author :
+- Mo Fahim Raj
+###### ⭐ If you find this project useful, please give it a star on GitHub! ⭐
+
+###### Built with ❤️ 
+
