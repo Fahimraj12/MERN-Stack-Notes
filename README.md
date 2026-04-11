@@ -42,6 +42,6 @@ Navigate into it:
 
 ## Author :
 - Mo Fahim Raj
-###### If you find helpful then 
+###### If you find helpful then don't 
 ###### Built with ❤️ 
 
